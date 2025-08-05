@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Triamb-Talwar
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning WebDev
+- 👀 I’m interested in Agentic AI and MAchine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me triambtalwar03@gmail.com
 
