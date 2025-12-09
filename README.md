@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Triamb-Talwar
-- 👀 I’m interested in Agentic AI and MAchine Learning
+- 👀 I’m interested in Agentic AI and Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me triambtalwar03@gmail.com
 
